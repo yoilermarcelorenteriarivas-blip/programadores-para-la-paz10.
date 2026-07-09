@@ -1,0 +1,12 @@
+¿Qué 2 tareas del backlog harías primero?
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso.
+2. Como miembro del equipo quiero consultar reportes para hacer seguimiento.
+
+¿Por qué son las más importantes?
+Porque constituyen la base funcional de la solución. Sin la capacidad de registrar las incidencias ni la posibilidad de consultarlas por el equipo, no existirían datos reales sobre los cuales generar alertas o realizar un seguimiento posterior.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Significa que la funcionalidad cumple con las expectativas del usuario, es completamente operativa y cumple con los siguientes criterios de aceptación:
+1. El código funciona sin errores y cumple el objetivo.
+2. Fue probada localmente con datos de prueba.
+3. Quedó registrada y subida al repositorio en Git.
